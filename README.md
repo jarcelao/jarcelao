@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo</h1>
-<h3 align="center">A struggling yet yearning student developer from the 🇵🇭</h3>
+<h3 align="center">A yearning and learning Data Engineer from the 🇵🇭</h3>
 
-- 🌱 I’m currently learning **enterprise systems and full-stack development**
+- 🌱 I’m currently **learning all about data**!
 
 - ⚡ Fun fact **A lot of people say I have golden retriever energy 🐶**
 
