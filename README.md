@@ -12,8 +12,8 @@ Data Platforms & GenAI Engineer <br>
 
 ---
 
-![Echo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarcelao&theme=dark&hide_border=true&count_private=true)
-![Echo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarcelao&theme=dark&hide_border=true)
+![Echo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarcelao&theme=dark&hide_border=true&count_private=true) <br>
+![Echo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarcelao&theme=dark&hide_border=true)
 
 ---
 
