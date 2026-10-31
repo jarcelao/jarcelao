@@ -1,6 +1,6 @@
-<img width="1200" height="400" alt="header" src="https://github.com/user-attachments/assets/28a0d6b9-d9b2-4f12-bc40-b562fd77135f" />
+<img width="1920" height="1280" alt="astroterm_manila" src="https://github.com/user-attachments/assets/4f59ed2b-c3ad-4aa6-9960-90f976d2d7fc" />
 <br>
-<sup>Photo by <a href="https://unsplash.com/@nitishm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nitish Meena</a> on <a href="https://unsplash.com/photos/landscape-photography-of-mountains-with-cloudy-skies-during-golden-hour-RbbdzZBKRDY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup>
+<sup>Rendered with <a href="https://github.com/da-luce/astroterm">astroterm</a></sup>
 
 ### hi, i'm echo
 data & ai engineer <br>
